@@ -8,7 +8,7 @@ full-stack development and context-driven workflows with Claude Code.
 
 ## Goals
 
-1. **Learning is the product.** Every layer stays understandable end-to-end:
+1. Every layer stays understandable end-to-end:
    raw SQL instead of an ORM, hand-rolled JWT auth instead of an auth provider,
    explicit Socket.IO events instead of a realtime framework.
 2. A complete account lifecycle — sign up, edit profile, log out, delete
